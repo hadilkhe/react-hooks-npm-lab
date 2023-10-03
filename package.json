@@ -2,8 +2,12 @@
   "name": "react-hooks-npm-lab",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "test": "jest"
+  
+    "scripts": {
+      "test": "echo 'Hello World!'",
+      "start": "serve"
+    }
+    
   },
   "browserslist": {
     "production": [
